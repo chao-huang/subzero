@@ -32,6 +32,7 @@ set(main_SRC
     "src/init_wallet.c"
     "src/memzero.c"
     "src/nanopb_stream.c"
+    "src/no_rollback.c"
     "src/print.c"
     "src/rpc.c"
     "src/script.c"
